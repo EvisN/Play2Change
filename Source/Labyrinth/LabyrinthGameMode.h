@@ -10,9 +10,6 @@ class ALabyrinthGameMode : public AGameMode
 
 public:
 	ALabyrinthGameMode();
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AlarmMode")
-	bool IsAlarmModeOn;
 };
 
 

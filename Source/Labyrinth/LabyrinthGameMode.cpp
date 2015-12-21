@@ -14,5 +14,4 @@ ALabyrinthGameMode::ALabyrinthGameMode()
 
 	// use our custom HUD class
 	HUDClass = ALabyrinthHUD::StaticClass();
-	IsAlarmModeOn = false;
 }
