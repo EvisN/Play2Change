@@ -3,7 +3,7 @@
 #ifndef __LABYRINTH_H__
 #define __LABYRINTH_H__
 
-#include "EngineMinimal.h"
+#include "Engine.h"
 
 
 #endif
